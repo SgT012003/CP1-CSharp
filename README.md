@@ -1,15 +1,23 @@
 # CP1-CSharp
 
+Victor Didoff - RM 552965
+
 [x] - 2 Solutions (Tests and Project).
+
 [x] - 10 / 10 Exercises executed and tested`s on both
 
 ## Tests
 [file](./CheckPointTests/ExercisesTests.cs)
+
+
 ![image](./image.png)
 
 ## Main Project 
 [main-file](./CheckPoint/Program.cs)
+
+
 [exercises-class](./CheckPoint/Exercises.cs)
+
 
 ## Console Output
 ```diff
